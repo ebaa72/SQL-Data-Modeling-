@@ -1,2 +1,2 @@
-# SQL-Data-Modeling-
+# SQL-Data-Modeling
 SQL &amp; Data Modeling Project
